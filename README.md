@@ -1,8 +1,10 @@
 # Apis publicas
+1.- [Anime](#Anime)
 
-API | HTTPS | Desc |
+
+
+### Anime
+Api | HTTPS | Desc |
 |---|---|---|
-| [Animechan](https://animechan.vercel.app/) | No | Yes | 
-| [Waifus](https://waifu.pics/docs)
-| [Random Cat](https://aws.random.cat/meow)
-| [Random Dog](https://random.dog/woof.json) 
+| [Animechan](https://animechan.vercel.app/) | Si | Una api para los amantes del anime | 
+| [Waifus](https://waifu.pics/docs) | Si | Una api para ver waifus | 
