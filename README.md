@@ -10,6 +10,13 @@ Api | HTTPS | Desc |
 | [Animechan](https://animechan.vercel.app/) | Si | Una api para los amantes del anime | 
 | [Waifus](https://waifu.pics/docs) | Si | Una api para ver waifus | 
 | [PokeApi](https://pokeapi.co/) | Si | Una api que da la informacion de los pokemones | 
-| [Kitsu](https://kitsu.docs.apiary.io/) | Si | Kitsu es una moderna plataforma de descubrimiento de anime que te ayuda a rastrear el anime que estás viendo, descubrir nuevos animes |
+| [Kitsu](https://kitsu.docs.apiary.io/) | Si | Kitsu es una moderna plataforma de descubrimiento de anime |
 
 
+### Developer
+Api | HTTPS | Desc |
+|---|---|---|
+| [Browshot](https://browshot.com/api/documentation) | Si | Una api para sacar screenshot de cualquier tamaño |
+| [Github](https://docs.github.com/en/rest) | Si | Una api de github de informacion de usuarios |
+| [Postman](https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a) | Si | Postman ayuda en testeo de apis |
+| [Userstack](https://userstack.com/)| Si | Detecta cualquier navegador, Dispositivo y sistema operativo en tiempo real API JSON |
